@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-14T00:31:26 GMT-07:00" name="Guru99 Bank" finished-at="2022-03-14T00:32:04 GMT-07:00" duration-ms="38369">
+    <groups>
+    </groups>
+    <test started-at="2022-03-14T00:31:26 GMT-07:00" name="Guru99 Bank Application Automation" finished-at="2022-03-14T00:32:04 GMT-07:00" duration-ms="38369">
+      <class name="com.guru99bank.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bank.qa.testcases.HomePageTest@dbf57b3]" started-at="2022-03-14T00:31:42 GMT-07:00" name="setUp" finished-at="2022-03-14T00:31:48 GMT-07:00" duration-ms="5670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateHomePageLogo()[pri:0, instance:com.guru99bank.qa.testcases.HomePageTest@dbf57b3]" started-at="2022-03-14T00:31:48 GMT-07:00" name="validateHomePageLogo" finished-at="2022-03-14T00:31:48 GMT-07:00" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomePageLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bank.qa.testcases.HomePageTest@dbf57b3]" started-at="2022-03-14T00:31:48 GMT-07:00" name="tearDown" finished-at="2022-03-14T00:31:48 GMT-07:00" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bank.qa.testcases.HomePageTest@dbf57b3]" started-at="2022-03-14T00:31:48 GMT-07:00" name="setUp" finished-at="2022-03-14T00:31:54 GMT-07:00" duration-ms="6024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="navigateToDeleteCustomerPage()[pri:1, instance:com.guru99bank.qa.testcases.HomePageTest@dbf57b3]" started-at="2022-03-14T00:31:54 GMT-07:00" name="navigateToDeleteCustomerPage" finished-at="2022-03-14T00:31:56 GMT-07:00" duration-ms="1568" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateToDeleteCustomerPage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bank.qa.testcases.HomePageTest@dbf57b3]" started-at="2022-03-14T00:31:56 GMT-07:00" name="tearDown" finished-at="2022-03-14T00:31:56 GMT-07:00" duration-ms="117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99bank.qa.testcases.HomePageTest -->
+      <class name="com.guru99bank.qa.testcases.DeleteCustomerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bank.qa.testcases.DeleteCustomerTest@384ad17b]" started-at="2022-03-14T00:31:56 GMT-07:00" name="setUp" finished-at="2022-03-14T00:32:03 GMT-07:00" duration-ms="7547" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="deletingCustomer()[pri:0, instance:com.guru99bank.qa.testcases.DeleteCustomerTest@384ad17b]" started-at="2022-03-14T00:32:03 GMT-07:00" name="deletingCustomer" finished-at="2022-03-14T00:32:04 GMT-07:00" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletingCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bank.qa.testcases.DeleteCustomerTest@384ad17b]" started-at="2022-03-14T00:32:04 GMT-07:00" name="tearDown" finished-at="2022-03-14T00:32:04 GMT-07:00" duration-ms="134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99bank.qa.testcases.DeleteCustomerTest -->
+      <class name="com.guru99bank.qa.testcases.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:26 GMT-07:00" name="setUp" finished-at="2022-03-14T00:31:32 GMT-07:00" duration-ms="6018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateTitle()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:32 GMT-07:00" name="validateTitle" finished-at="2022-03-14T00:31:32 GMT-07:00" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTitle -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:32 GMT-07:00" name="tearDown" finished-at="2022-03-14T00:31:32 GMT-07:00" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:32 GMT-07:00" name="setUp" finished-at="2022-03-14T00:31:36 GMT-07:00" duration-ms="4213" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validateLogo()[pri:1, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:36 GMT-07:00" name="validateLogo" finished-at="2022-03-14T00:31:36 GMT-07:00" duration-ms="49" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLogo -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:36 GMT-07:00" name="tearDown" finished-at="2022-03-14T00:31:36 GMT-07:00" duration-ms="90" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:36 GMT-07:00" name="setUp" finished-at="2022-03-14T00:31:40 GMT-07:00" duration-ms="4234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginToApp()[pri:2, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:40 GMT-07:00" name="loginToApp" finished-at="2022-03-14T00:31:42 GMT-07:00" duration-ms="1597" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginToApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.guru99bank.qa.testcases.LoginPageTest@76508ed1]" started-at="2022-03-14T00:31:42 GMT-07:00" name="tearDown" finished-at="2022-03-14T00:31:42 GMT-07:00" duration-ms="97" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.guru99bank.qa.testcases.LoginPageTest -->
+    </test> <!-- Guru99 Bank Application Automation -->
+  </suite> <!-- Guru99 Bank -->
+</testng-results>
